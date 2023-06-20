@@ -30,6 +30,6 @@ To run this image compression project, please follow the steps outlined below:
 
 - Clone the repository: git clone https://github.com/Dan-Swarts/Big_Data.git
 - Install the required dependency: pip install pyspark
-- Run the main compression script: python main.py --input_file input.json --output_file path.json --threshold 0.4
+- Run the main compression script: python minhashing.py --input_file input.json --output_file path.json --threshold 0.4
 
 Note that you need to provide a JSON file formatted similarly to the example input file included in this repository.
